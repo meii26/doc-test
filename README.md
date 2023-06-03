@@ -9,14 +9,14 @@
 
 <h3>font</h3>
 <table>
-<td>
-   <tr>sukhumvitSet</tr>
-    <tr>size 16</tr>
-</td>
-<td>
-   <tr>sukhumvitSet</tr>
-    <tr>size 14</tr>
-</td>
+<tr>
+   <td>sukhumvitSet</td>
+    <td>size 16</td>
+</tr>
+<tr>
+   <td>sukhumvitSet</td>
+    <td>size 14</td>
+</tr>
 </table>
 
 <body>
